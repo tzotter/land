@@ -1,5 +1,3 @@
-# land
-
 # Variable Documentation
 
 This document provides an overview of the variables used, along with their purposes, types, and sources. For a more detailed overview, we refer to the paper.
