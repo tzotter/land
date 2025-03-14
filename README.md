@@ -8,7 +8,7 @@ This document provides an overview of the variables used, along with their purpo
 | `code`        | ISO 3166-1 Alpha-3 Code       | String        | https://www.iso.org/obp/ui/#search |
 | `country`        | English short name      | String         | https://www.iso.org/obp/ui/#search |
 | `year`      | Year from 1960 to 2010      | Integer         | - |
-| `any_lr`      | Variable indicating if any land reform happended in a given year  |  Integer (Binary)   | Bhattacharya et al. (2021) |
+| `any_lr`      | Variable indicating if any land reform happened in a given year  |  Integer (Binary)   | Bhattacharya et al. (2021) |
 | `cum_lr`      | Cumulative `any_lr`    | Integer         | Bhattacharya et al. (2021)  |
 | `class_lr`      | Classic land reform    | Integer (Binary)         | Bhattacharya et al. (2021)  |
 | `cum_class_lr`      | Cumulative `class_lr`    | Integer         | Bhattacharya et al. (2021)  |
